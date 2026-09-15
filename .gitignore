@@ -1,0 +1,5 @@
+.env
+.env.*
+brief.md
+meta.json
+*.map
